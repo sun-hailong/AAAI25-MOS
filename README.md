@@ -22,7 +22,9 @@
   <a href=""><img src="https://img.shields.io/badge/MOS-v1.0-darkcyan"></a>
   <a href='https://arxiv.org/abs/2412.09441'><img src='https://img.shields.io/badge/Arxiv-2412.09441-b31b1b.svg?logo=arXiv'></a>
   <a href=""><img src="https://img.shields.io/github/stars/sun-hailong/AAAI25-MOS?color=4fb5ee"></a>
-  <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAAAI25-MOS&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a>
+  <!-- <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAAAI25-MOS&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a> -->
+  <a href="https://hits.sh/github.com/sun-hailong/AAAI25-MOS/"><img alt="Hits" src="https://hits.sh/github.com/sun-hailong/AAAI25-MOS.svg?view=today-total"/></a>
+
 </p>
 
 🎉The code repository for "[MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](http://arxiv.org/abs/2412.09441)" (AAAI 2025) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
