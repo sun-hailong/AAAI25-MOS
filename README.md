@@ -34,6 +34,7 @@
     title={MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning},
     author={Sun, Hai-Long and Zhou, Da-Wei and Zhao, Hanbin and Gan, Le and Zhan, De-Chuan and Ye, Han-Jia},
     booktitle={AAAI},
+    pages={20699--20707},
     year={2025}
   }
 ```
