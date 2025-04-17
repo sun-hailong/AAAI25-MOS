@@ -30,7 +30,7 @@
 🎉The code repository for "[MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](http://arxiv.org/abs/2412.09441)" (AAAI 2025) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
 
 ```
-  @inproceedings{sun2024mos,
+  @inproceedings{sun2025mos,
     title={MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning},
     author={Sun, Hai-Long and Zhou, Da-Wei and Zhao, Hanbin and Gan, Le and Zhan, De-Chuan and Ye, Han-Jia},
     booktitle={AAAI},
